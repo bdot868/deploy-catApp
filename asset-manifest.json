@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-catApp/static/css/main.00c587ef.chunk.css",
+    "main.js": "/deploy-catApp/static/js/main.e3dfb8ae.chunk.js",
+    "main.js.map": "/deploy-catApp/static/js/main.e3dfb8ae.chunk.js.map",
+    "runtime-main.js": "/deploy-catApp/static/js/runtime-main.bbf78288.js",
+    "runtime-main.js.map": "/deploy-catApp/static/js/runtime-main.bbf78288.js.map",
+    "static/js/2.3df15e90.chunk.js": "/deploy-catApp/static/js/2.3df15e90.chunk.js",
+    "static/js/2.3df15e90.chunk.js.map": "/deploy-catApp/static/js/2.3df15e90.chunk.js.map",
+    "index.html": "/deploy-catApp/index.html",
+    "precache-manifest.bd596e5d3d1786efc16fac755293274e.js": "/deploy-catApp/precache-manifest.bd596e5d3d1786efc16fac755293274e.js",
+    "service-worker.js": "/deploy-catApp/service-worker.js",
+    "static/css/main.00c587ef.chunk.css.map": "/deploy-catApp/static/css/main.00c587ef.chunk.css.map",
+    "static/js/2.3df15e90.chunk.js.LICENSE.txt": "/deploy-catApp/static/js/2.3df15e90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbf78288.js",
+    "static/js/2.3df15e90.chunk.js",
+    "static/css/main.00c587ef.chunk.css",
+    "static/js/main.e3dfb8ae.chunk.js"
+  ]
+}
